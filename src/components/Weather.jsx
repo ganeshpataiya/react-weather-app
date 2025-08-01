@@ -73,7 +73,7 @@ const Weather = () => {
     // You can add more functionality here, like handling the search input and displaying the weather data
     useEffect(() => {
         // You can call the search function here with a default city or based on user input
-        search("delhi"); // Example default city
+        search("Pune"); // Example default city
 
     },[])
     
