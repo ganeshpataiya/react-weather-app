@@ -8,12 +8,13 @@
 
 $primary-color: #3498db;
 $secondary-color: #e2d4ff;
+$white: #ffffff;
 
 
 .app {
   height: 100vh;
   display: grid;
-  background-color: $secondary-color;
+  background-color: $white;
 }
 .header {
   background-color: #4a90e2;
